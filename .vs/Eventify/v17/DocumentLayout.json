@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DCL\\source\\repos\\Eventify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|c:\\users\\dcl\\source\\repos\\eventify\\eventify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|solutionrelative:eventify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|C:\\Users\\DCL\\source\\repos\\Eventify\\eventify\\eventmangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|solutionrelative:eventify\\eventmangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|C:\\Users\\DCL\\source\\repos\\Eventify\\eventify\\tikect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|solutionrelative:eventify\\tikect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|C:\\Users\\DCL\\source\\repos\\Eventify\\eventify\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|solutionrelative:eventify\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|C:\\Users\\DCL\\source\\repos\\Eventify\\eventify\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|solutionrelative:eventify\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|C:\\Users\\DCL\\source\\repos\\Eventify\\eventify\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|solutionrelative:eventify\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|C:\\Users\\DCL\\source\\repos\\Eventify\\eventify\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D04BFA-747E-47DC-97DA-6E4EE0FCC551}|Eventify\\Eventify.csproj|solutionrelative:eventify\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventMangement.cs",
+              "DocumentMoniker": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\EventMangement.cs",
+              "RelativeDocumentMoniker": "Eventify\\EventMangement.cs",
+              "ToolTip": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\EventMangement.cs",
+              "RelativeToolTip": "Eventify\\EventMangement.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAswIwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:35:10.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tikect.cs",
+              "DocumentMoniker": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Tikect.cs",
+              "RelativeDocumentMoniker": "Eventify\\Tikect.cs",
+              "ToolTip": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Tikect.cs",
+              "RelativeToolTip": "Eventify\\Tikect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:38.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Participant.cs",
+              "RelativeDocumentMoniker": "Eventify\\Participant.cs",
+              "ToolTip": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Participant.cs",
+              "RelativeToolTip": "Eventify\\Participant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:17:37.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Organizer.cs",
+              "RelativeDocumentMoniker": "Eventify\\Organizer.cs",
+              "ToolTip": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Organizer.cs",
+              "RelativeToolTip": "Eventify\\Organizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:17:16.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Venue.cs",
+              "RelativeDocumentMoniker": "Eventify\\Venue.cs",
+              "ToolTip": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Venue.cs",
+              "RelativeToolTip": "Eventify\\Venue.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:16:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Event.cs",
+              "RelativeDocumentMoniker": "Eventify\\Event.cs",
+              "ToolTip": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Event.cs",
+              "RelativeToolTip": "Eventify\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:09:42.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Program.cs",
+              "RelativeDocumentMoniker": "Eventify\\Program.cs",
+              "ToolTip": "C:\\Users\\DCL\\source\\repos\\Eventify\\Eventify\\Program.cs",
+              "RelativeToolTip": "Eventify\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:09:09.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
